@@ -5,7 +5,7 @@ class Solution {
         int[] left = new int[n];
         int[] right = new int[n];
 
-        Stack<Integer> st = new Stack<>();
+       Deque<Integer> st = new ArrayDeque<>();
         for(int i=0;i<n;i++){
             while(!st.isEmpty() && nums[st.peek()]>=nums[i]){
                 st.pop();
