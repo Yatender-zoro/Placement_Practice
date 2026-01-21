@@ -11,6 +11,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [1395-count-number-of-teams](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1395-count-number-of-teams) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1856-maximum-subarray-min-product](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1856-maximum-subarray-min-product) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Stack
 |  |
 | ------- |
@@ -19,6 +20,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0907-sum-of-subarray-minimums](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1856-maximum-subarray-min-product](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1856-maximum-subarray-min-product) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -26,6 +28,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0907-sum-of-subarray-minimums](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1856-maximum-subarray-min-product](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1856-maximum-subarray-min-product) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -77,4 +80,8 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0678-valid-parenthesis-string) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Linked List
+|  |
+| ------- |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2289-steps-to-make-array-non-decreasing) |
 <!---LeetCode Topics End-->
