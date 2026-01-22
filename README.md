@@ -104,4 +104,12 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0735-asteroid-collision) |
+## Math
+|  |
+| ------- |
+| [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
+## Recursion
+|  |
+| ------- |
+| [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 <!---LeetCode Topics End-->
