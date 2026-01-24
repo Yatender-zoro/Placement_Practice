@@ -1,14 +1,19 @@
 class Solution {
-    public int totalSteps(int[] A) {
-         int n = A.length, res = 0, j = -1;
-        int dp[] = new int[n], stack[] = new int[n];
-        for (int i = n - 1; i >= 0; --i) {
-            while (j >= 0 && A[i] > A[stack[j]]) {
-                dp[i] = Math.max(++dp[i], dp[stack[j--]]);
-                res = Math.max(res, dp[i]);
+    public int totalSteps(int[] nums) {
+        int n = nums.length;
+        Deque<Integer> st = new ArrayDeque<>();
+        int maxi = 0;
+        int c = 0;
+        int[] dp  = new int[n];
+        for(int i=n-1;i>=0;i--){
+            c=0;
+            while(!st.isEmpty() && nums[i]>nums[st.peek()]){
+                c = Math.max(c + 1, dp[st.pop()]);
             }
-            stack[++j] = i;
+            dp[i] = c;
+            maxi = Math.max(maxi,c);
+            st.push(i);
         }
-        return res;
+        return maxi;
     }
 }
