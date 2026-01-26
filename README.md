@@ -21,6 +21,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [2104-sum-of-subarray-ranges](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [2332-the-latest-time-to-catch-a-bus](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3719-longest-balanced-subarray-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3719-longest-balanced-subarray-i) |
 ## Stack
@@ -96,6 +97,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 ## Binary Search
 |  |
 | ------- |
+| [2332-the-latest-time-to-catch-a-bus](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 ## Sliding Window
@@ -125,6 +127,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0042-trapping-rain-water) |
+| [2332-the-latest-time-to-catch-a-bus](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3645-maximum-total-from-optimal-activation-order) |
 ## Simulation
 |  |
@@ -148,6 +151,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2332-the-latest-time-to-catch-a-bus](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3645-maximum-total-from-optimal-activation-order) |
 ## Heap (Priority Queue)
 |  |
