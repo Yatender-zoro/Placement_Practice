@@ -144,12 +144,14 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1922-count-good-numbers](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1922-count-good-numbers) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 ## Recursion
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1922-count-good-numbers](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1922-count-good-numbers) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 ## Matrix
 |  |
