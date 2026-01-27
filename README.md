@@ -16,6 +16,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0907-sum-of-subarray-minimums](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1395-count-number-of-teams](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1395-count-number-of-teams) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1856-maximum-subarray-min-product](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1856-maximum-subarray-min-product) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2073-time-needed-to-buy-tickets) |
@@ -134,15 +135,18 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0735-asteroid-collision) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2073-time-needed-to-buy-tickets) |
 ## Math
 |  |
 | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 ## Recursion
 |  |
 | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 ## Matrix
 |  |
@@ -176,6 +180,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0239-sliding-window-maximum) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
