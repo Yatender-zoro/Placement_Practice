@@ -2,22 +2,38 @@ class Solution {
     // int n;
     // int[][] dp;
     public int findLongestChain(int[][] pairs) {
-        int n = pairs.length;
-        int[] dp = new int[n+1];
-        Arrays.sort(pairs, (a, b) -> Integer.compare(a[0], b[0])); 
-        Arrays.fill(dp,1);
 
-        int maxi = 1;
-        for(int i=1;i<n;i++){
-            for(int j=0;j<i;j++){
-                if(pairs[i][0]>pairs[j][1]){
-                    dp[i] = Math.max(dp[i],dp[j]+1);
-                    maxi = Math.max(dp[i],maxi);
-                }
+
+         Arrays.sort(pairs, (a, b) -> Integer.compare(a[1], b[1])); // sort by end
+
+        int count = 0;
+        int end = Integer.MIN_VALUE;
+
+        for (int[] p : pairs) {
+            if (p[0] > end) {
+                count++;
+                end = p[1];
             }
         }
+        return count;
 
-        return maxi;
+        
+        // int n = pairs.length;
+        // int[] dp = new int[n];
+        // Arrays.sort(pairs, (a, b) -> Integer.compare(a[0], b[0])); 
+        // Arrays.fill(dp,1);
+
+        // int maxi = 1;
+        // for(int i=1;i<n;i++){
+        //     for(int j=0;j<i;j++){
+        //         if(pairs[i][0]>pairs[j][1]){
+        //             dp[i] = Math.max(dp[i],dp[j]+1);
+        //             maxi = Math.max(dp[i],maxi);
+        //         }
+        //     }
+        // }
+
+        // return maxi;
         // dp = new int[n][n+1];
         // for(int i=0;i<n;i++) Arrays.fill(dp[i],-1);
         // return maxLen(pairs,0,-1);
