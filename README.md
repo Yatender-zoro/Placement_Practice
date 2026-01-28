@@ -90,6 +90,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0496-next-greater-element-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0496-next-greater-element-i) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3146-permutation-difference-between-two-strings) |
 | [3719-longest-balanced-subarray-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3719-longest-balanced-subarray-i) |
 ## String
 |  |
@@ -98,6 +99,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0678-valid-parenthesis-string](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0678-valid-parenthesis-string) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3146-permutation-difference-between-two-strings) |
 ## Binary Search
 |  |
 | ------- |
