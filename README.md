@@ -13,6 +13,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0300-longest-increasing-subsequence](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0496-next-greater-element-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0503-next-greater-element-ii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0735-asteroid-collision](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1395-count-number-of-teams](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1395-count-number-of-teams) |
@@ -73,6 +74,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0042-trapping-rain-water](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0085-maximal-rectangle) |
 | [0300-longest-increasing-subsequence](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0300-longest-increasing-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1395-count-number-of-teams](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1395-count-number-of-teams) |
@@ -130,6 +132,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0402-remove-k-digits) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0678-valid-parenthesis-string) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2195-append-k-integers-with-minimal-sum) |
@@ -172,6 +175,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 ## Sorting
 |  |
 | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3645-maximum-total-from-optimal-activation-order) |
