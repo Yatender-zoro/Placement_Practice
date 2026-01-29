@@ -30,6 +30,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3719-longest-balanced-subarray-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3719-longest-balanced-subarray-i) |
 ## Stack
@@ -69,6 +70,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | ------- |
 | [1856-maximum-subarray-min-product](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1856-maximum-subarray-min-product) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3719-longest-balanced-subarray-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3719-longest-balanced-subarray-i) |
 ## Dynamic Programming
 |  |
@@ -85,6 +87,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2266-count-number-of-texts](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2266-count-number-of-texts) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -103,6 +106,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3146-permutation-difference-between-two-strings) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3719-longest-balanced-subarray-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3719-longest-balanced-subarray-i) |
 ## String
 |  |
@@ -141,6 +145,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0678-valid-parenthesis-string](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0678-valid-parenthesis-string) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3645-maximum-total-from-optimal-activation-order) |
 ## Linked List
 |  |
@@ -227,4 +232,8 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2359-find-closest-node-to-given-two-nodes) |
+## Enumeration
+|  |
+| ------- |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3434-maximum-frequency-after-subarray-operation) |
 <!---LeetCode Topics End-->
