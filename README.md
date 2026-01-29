@@ -19,6 +19,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [1395-count-number-of-teams](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1395-count-number-of-teams) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1696-jump-game-vi](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1696-jump-game-vi) |
+| [1726-tuple-with-same-product](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1726-tuple-with-same-product) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1856-maximum-subarray-min-product](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1856-maximum-subarray-min-product) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -97,6 +98,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0496-next-greater-element-i) |
+| [1726-tuple-with-same-product](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1726-tuple-with-same-product) |
 | [2266-count-number-of-texts](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2266-count-number-of-texts) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
@@ -128,6 +130,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 ## Counting
 |  |
 | ------- |
+| [1726-tuple-with-same-product](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1726-tuple-with-same-product) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 ## Greedy
