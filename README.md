@@ -30,6 +30,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2332-the-latest-time-to-catch-a-bus) |
+| [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3645-maximum-total-from-optimal-activation-order) |
@@ -91,6 +92,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2266-count-number-of-texts](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2266-count-number-of-texts) |
+| [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Binary Indexed Tree
 |  |
