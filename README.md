@@ -22,6 +22,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1696-jump-game-vi](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1696-jump-game-vi) |
 | [1726-tuple-with-same-product](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1726-tuple-with-same-product) |
+| [1818-minimum-absolute-sum-difference](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1818-minimum-absolute-sum-difference) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1856-maximum-subarray-min-product](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1856-maximum-subarray-min-product) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -131,6 +132,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0300-longest-increasing-subsequence) |
+| [1818-minimum-absolute-sum-difference](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1818-minimum-absolute-sum-difference) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
@@ -200,6 +202,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0368-largest-divisible-subset](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0368-largest-divisible-subset) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [1048-longest-string-chain](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1048-longest-string-chain) |
+| [1818-minimum-absolute-sum-difference](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1818-minimum-absolute-sum-difference) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3645-maximum-total-from-optimal-activation-order) |
@@ -250,4 +253,8 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3434-maximum-frequency-after-subarray-operation) |
+## Ordered Set
+|  |
+| ------- |
+| [1818-minimum-absolute-sum-difference](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1818-minimum-absolute-sum-difference) |
 <!---LeetCode Topics End-->
