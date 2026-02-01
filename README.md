@@ -89,6 +89,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0678-valid-parenthesis-string](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1048-longest-string-chain](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1048-longest-string-chain) |
+| [1143-longest-common-subsequence](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1143-longest-common-subsequence) |
 | [1395-count-number-of-teams](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1395-count-number-of-teams) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -126,6 +127,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0402-remove-k-digits](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0678-valid-parenthesis-string) |
 | [1048-longest-string-chain](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1048-longest-string-chain) |
+| [1143-longest-common-subsequence](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1143-longest-common-subsequence) |
 | [2266-count-number-of-texts](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2266-count-number-of-texts) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
