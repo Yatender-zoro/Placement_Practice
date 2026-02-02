@@ -36,8 +36,8 @@ class Solution {
                 ans = Math.max(ans, blocks.get(0) - 2);
             if (blocks.size() >= 2){
                 int cand = (blocks.get(0) + blocks.get(1) - 1) / 2;
-            if (cand >= 1)  
-                ans = Math.max(ans, cand);
+                if (cand >= 1)  
+                    ans = Math.max(ans, cand);
             }
                 
             if (blocks.size() >= 3)
