@@ -81,6 +81,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0085-maximal-rectangle) |
@@ -128,6 +129,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0072-edit-distance) |
 | [0402-remove-k-digits](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0402-remove-k-digits) |
 | [0647-palindromic-substrings](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0647-palindromic-substrings) |
@@ -179,6 +181,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0042-trapping-rain-water) |
 | [0647-palindromic-substrings](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1048-longest-string-chain) |
