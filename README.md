@@ -11,6 +11,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0085-maximal-rectangle](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0174-dungeon-game) |
 | [0239-sliding-window-maximum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0368-largest-divisible-subset) |
@@ -93,6 +94,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0131-palindrome-partitioning](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0174-dungeon-game) |
 | [0300-longest-increasing-subsequence](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0368-largest-divisible-subset) |
 | [0516-longest-palindromic-subsequence](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0516-longest-palindromic-subsequence) |
@@ -229,6 +231,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0085-maximal-rectangle) |
+| [0174-dungeon-game](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0174-dungeon-game) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 ## Sorting
