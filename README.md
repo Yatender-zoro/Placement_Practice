@@ -40,6 +40,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3719-longest-balanced-subarray-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3719-longest-balanced-subarray-i) |
@@ -117,6 +118,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [2272-substring-with-largest-variance](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2272-substring-with-largest-variance) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Binary Indexed Tree
 |  |
@@ -234,6 +236,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0174-dungeon-game](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0174-dungeon-game) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 ## Sorting
 |  |
 | ------- |
