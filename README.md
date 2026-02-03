@@ -132,6 +132,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0127-word-ladder) |
 | [0496-next-greater-element-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0496-next-greater-element-i) |
 | [1048-longest-string-chain](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1048-longest-string-chain) |
 | [1726-tuple-with-same-product](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1726-tuple-with-same-product) |
@@ -147,6 +148,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0072-edit-distance) |
+| [0127-word-ladder](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0402-remove-k-digits](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0402-remove-k-digits) |
@@ -303,4 +305,8 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0131-palindrome-partitioning) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
