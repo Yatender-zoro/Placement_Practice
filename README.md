@@ -41,6 +41,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3434-maximum-frequency-after-subarray-operation) |
@@ -261,6 +262,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0239-sliding-window-maximum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0239-sliding-window-maximum) |
 | [1631-path-with-minimum-effort](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1631-path-with-minimum-effort) |
 | [1696-jump-game-vi](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1696-jump-game-vi) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3645-maximum-total-from-optimal-activation-order) |
 ## Divide and Conquer
 |  |
@@ -300,6 +302,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2359-find-closest-node-to-given-two-nodes) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 ## Enumeration
 |  |
 | ------- |
@@ -322,4 +325,8 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1631-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 <!---LeetCode Topics End-->
