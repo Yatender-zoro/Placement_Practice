@@ -25,6 +25,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [1395-count-number-of-teams](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1395-count-number-of-teams) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1631-path-with-minimum-effort) |
 | [1696-jump-game-vi](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1696-jump-game-vi) |
 | [1726-tuple-with-same-product](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1726-tuple-with-same-product) |
 | [1818-minimum-absolute-sum-difference](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1818-minimum-absolute-sum-difference) |
@@ -168,6 +169,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0300-longest-increasing-subsequence) |
+| [1631-path-with-minimum-effort](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1631-path-with-minimum-effort) |
 | [1818-minimum-absolute-sum-difference](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1818-minimum-absolute-sum-difference) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
@@ -239,6 +241,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0174-dungeon-game](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0174-dungeon-game) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1631-path-with-minimum-effort) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 ## Sorting
@@ -256,6 +259,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0239-sliding-window-maximum) |
+| [1631-path-with-minimum-effort](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1631-path-with-minimum-effort) |
 | [1696-jump-game-vi](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1696-jump-game-vi) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3645-maximum-total-from-optimal-activation-order) |
 ## Divide and Conquer
@@ -290,6 +294,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 ## Depth-First Search
 |  |
 | ------- |
+| [1631-path-with-minimum-effort](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1631-path-with-minimum-effort) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2359-find-closest-node-to-given-two-nodes) |
 ## Graph Theory
 |  |
@@ -312,4 +317,9 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | ------- |
 | [0127-word-ladder](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0127-word-ladder) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1631-path-with-minimum-effort) |
+## Union-Find
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
