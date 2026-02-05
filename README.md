@@ -117,6 +117,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1696-jump-game-vi](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1696-jump-game-vi) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2266-count-number-of-texts](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2266-count-number-of-texts) |
 | [2272-substring-with-largest-variance](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2272-substring-with-largest-variance) |
@@ -305,6 +306,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 ## Enumeration
@@ -335,6 +337,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 ## Tree
 |  |
@@ -344,4 +347,8 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0102-binary-tree-level-order-traversal) |
+## Topological Sort
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
