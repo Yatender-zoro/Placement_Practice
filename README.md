@@ -22,6 +22,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0907-sum-of-subarray-minimums](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1048-longest-string-chain](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1169-invalid-transactions](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1169-invalid-transactions) |
 | [1395-count-number-of-teams](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1395-count-number-of-teams) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -140,6 +141,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0127-word-ladder](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0127-word-ladder) |
 | [0496-next-greater-element-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0496-next-greater-element-i) |
 | [1048-longest-string-chain](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1048-longest-string-chain) |
+| [1169-invalid-transactions](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1169-invalid-transactions) |
 | [1726-tuple-with-same-product](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1726-tuple-with-same-product) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2007-find-original-array-from-doubled-array) |
 | [2266-count-number-of-texts](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2266-count-number-of-texts) |
@@ -163,6 +165,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [1048-longest-string-chain](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1143-longest-common-subsequence) |
+| [1169-invalid-transactions](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1169-invalid-transactions) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2266-count-number-of-texts](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2266-count-number-of-texts) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
@@ -253,6 +256,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0368-largest-divisible-subset](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0368-largest-divisible-subset) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [1048-longest-string-chain](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1048-longest-string-chain) |
+| [1169-invalid-transactions](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1169-invalid-transactions) |
 | [1818-minimum-absolute-sum-difference](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1818-minimum-absolute-sum-difference) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2007-find-original-array-from-doubled-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2195-append-k-integers-with-minimal-sum) |
