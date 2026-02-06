@@ -142,6 +142,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0127-word-ladder) |
+| [0146-lru-cache](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0496-next-greater-element-i) |
 | [1048-longest-string-chain](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1048-longest-string-chain) |
 | [1169-invalid-transactions](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1169-invalid-transactions) |
@@ -210,6 +211,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0146-lru-cache) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1019-next-greater-node-in-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -282,6 +284,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0146-lru-cache) |
 | [0901-online-stock-span](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -359,4 +362,8 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
