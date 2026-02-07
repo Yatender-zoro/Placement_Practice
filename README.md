@@ -39,6 +39,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [2007-find-original-array-from-doubled-array](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2007-find-original-array-from-doubled-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2073-time-needed-to-buy-tickets) |
 | [2104-sum-of-subarray-ranges](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2104-sum-of-subarray-ranges) |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2272-substring-with-largest-variance](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2272-substring-with-largest-variance) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -150,6 +151,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [1169-invalid-transactions](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1169-invalid-transactions) |
 | [1726-tuple-with-same-product](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1726-tuple-with-same-product) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2007-find-original-array-from-doubled-array) |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2266-count-number-of-texts](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2266-count-number-of-texts) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
@@ -197,6 +199,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [1726-tuple-with-same-product](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1726-tuple-with-same-product) |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 ## Greedy
@@ -207,6 +210,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0678-valid-parenthesis-string](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0678-valid-parenthesis-string) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2007-find-original-array-from-doubled-array) |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3645-maximum-total-from-optimal-activation-order) |
