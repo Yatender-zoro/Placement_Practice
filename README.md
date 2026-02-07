@@ -211,6 +211,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0146-lru-cache](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0146-lru-cache) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1019-next-greater-node-in-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -219,6 +220,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0042-trapping-rain-water) |
 | [0647-palindromic-substrings](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1048-longest-string-chain) |
