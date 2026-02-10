@@ -12,6 +12,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0120-triangle](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0174-dungeon-game) |
+| [0221-maximal-square](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0368-largest-divisible-subset) |
@@ -108,6 +109,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0132-palindrome-partitioning-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0174-dungeon-game) |
+| [0221-maximal-square](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0343-integer-break](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0343-integer-break) |
@@ -270,6 +272,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0174-dungeon-game) |
+| [0221-maximal-square](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0221-maximal-square) |
 | [0827-making-a-large-island](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0827-making-a-large-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
