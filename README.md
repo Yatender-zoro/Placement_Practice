@@ -48,6 +48,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
@@ -200,6 +201,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [1631-path-with-minimum-effort](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1631-path-with-minimum-effort) |
 | [1818-minimum-absolute-sum-difference](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1818-minimum-absolute-sum-difference) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2332-the-latest-time-to-catch-a-bus) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 ## Sliding Window
@@ -350,6 +352,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1631-path-with-minimum-effort) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2359-find-closest-node-to-given-two-nodes) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Graph Theory
 |  |
 | ------- |
@@ -406,6 +409,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0617-merge-two-binary-trees](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0617-merge-two-binary-trees) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0951-flip-equivalent-binary-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -415,6 +419,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0617-merge-two-binary-trees](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0617-merge-two-binary-trees) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0951-flip-equivalent-binary-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Topological Sort
 |  |
 | ------- |
@@ -431,4 +436,8 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
