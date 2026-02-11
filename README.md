@@ -141,6 +141,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [2272-substring-with-largest-variance](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2272-substring-with-largest-variance) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
@@ -231,6 +232,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [2007-find-original-array-from-doubled-array](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2007-find-original-array-from-doubled-array) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3645-maximum-total-from-optimal-activation-order) |
 ## Linked List
@@ -339,6 +341,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 ## Bit Manipulation
 |  |
 | ------- |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Depth-First Search
 |  |
