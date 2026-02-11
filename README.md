@@ -188,6 +188,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [1143-longest-common-subsequence](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1143-longest-common-subsequence) |
 | [1169-invalid-transactions](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1169-invalid-transactions) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1881-maximum-value-after-insertion](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1881-maximum-value-after-insertion) |
 | [2266-count-number-of-texts](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2266-count-number-of-texts) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
@@ -222,6 +223,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0646-maximum-length-of-pair-chain](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0678-valid-parenthesis-string) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1881-maximum-value-after-insertion](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1881-maximum-value-after-insertion) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2007-find-original-array-from-doubled-array) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2195-append-k-integers-with-minimal-sum) |
