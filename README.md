@@ -343,6 +343,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 ## Depth-First Search
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0547-number-of-provinces) |
@@ -408,6 +409,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0572-subtree-of-another-tree) |
@@ -420,6 +422,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0572-subtree-of-another-tree) |
