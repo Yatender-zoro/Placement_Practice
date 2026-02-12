@@ -9,6 +9,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0042-trapping-rain-water](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0085-maximal-rectangle) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0174-dungeon-game) |
@@ -158,6 +159,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0496-next-greater-element-i) |
@@ -315,6 +317,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [3719-longest-balanced-subarray-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3719-longest-balanced-subarray-i) |
 ## Design
 |  |
@@ -414,6 +417,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0543-diameter-of-binary-tree) |
@@ -428,6 +432,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0543-diameter-of-binary-tree) |
