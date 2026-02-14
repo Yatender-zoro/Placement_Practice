@@ -362,6 +362,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0572-subtree-of-another-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0652-find-duplicate-subtrees) |
+| [0655-print-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0814-binary-tree-pruning](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0814-binary-tree-pruning) |
@@ -403,6 +404,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0279-perfect-squares](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0279-perfect-squares) |
 | [0547-number-of-provinces](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0617-merge-two-binary-trees) |
+| [0655-print-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0827-making-a-large-island](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0827-making-a-large-island) |
@@ -438,6 +440,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0572-subtree-of-another-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0652-find-duplicate-subtrees) |
+| [0655-print-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0814-binary-tree-pruning) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0951-flip-equivalent-binary-trees) |
@@ -459,6 +462,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0572-subtree-of-another-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0652-find-duplicate-subtrees) |
+| [0655-print-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0814-binary-tree-pruning) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0951-flip-equivalent-binary-trees) |
