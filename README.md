@@ -406,6 +406,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [1091-shortest-path-in-binary-matrix](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1609-even-odd-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1609-even-odd-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
@@ -437,6 +438,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0951-flip-equivalent-binary-trees](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0951-flip-equivalent-binary-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1609-even-odd-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1609-even-odd-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -455,6 +457,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0951-flip-equivalent-binary-trees](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0951-flip-equivalent-binary-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1609-even-odd-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1609-even-odd-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Topological Sort
 |  |
