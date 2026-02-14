@@ -15,18 +15,17 @@
  */
 class Solution {
     public int sumNumbers(TreeNode root) {
-        return solve(root,"");
+        return solve(root,0);
     }
 
-    public int solve(TreeNode root,String s){
-        if(root == null) return Integer.parseInt(s);
-        s = s+root.val;
-        if(root.left == null && root.right == null ) return Integer.parseInt(s);
-        int l =0,r =0;
-        if(root.left!=null)
-            l = solve(root.left,s);
-        if(root.right !=null)
-            r = solve(root.right,s);
+    public int solve(TreeNode root,int num){
+        if(root == null) return 0;
+        num = num * 10 + root.val;
+        if(root.left == null && root.right == null ) return num;
+        
+        int l = solve(root.left,num);
+       
+        int r = solve(root.right,num);
         return l+r;
     }
 }
