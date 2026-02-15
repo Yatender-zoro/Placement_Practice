@@ -180,6 +180,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2266-count-number-of-texts](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2266-count-number-of-texts) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3146-permutation-difference-between-two-strings) |
@@ -384,6 +385,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [1631-path-with-minimum-effort](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1631-path-with-minimum-effort) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Graph Theory
 |  |
@@ -431,6 +433,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [1609-even-odd-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1609-even-odd-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1631-path-with-minimum-effort) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Union-Find
 |  |
 | ------- |
@@ -472,6 +475,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1609-even-odd-tree) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -497,6 +501,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [1361-validate-binary-tree-nodes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1361-validate-binary-tree-nodes) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1609-even-odd-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Topological Sort
 |  |
