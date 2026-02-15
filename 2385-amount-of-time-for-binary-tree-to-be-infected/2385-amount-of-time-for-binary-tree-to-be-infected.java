@@ -15,17 +15,18 @@
  */
 class Solution {
     HashMap<TreeNode,TreeNode> parent = new HashMap<>();
+    TreeNode startNode;
 
     public int amountOfTime(TreeNode root, int start) {
-        buildParent(root);
+        buildParent(root,start);
 
-        TreeNode node = findStart(root,start);
+       
         HashSet<Integer> infected = new HashSet<>();
 
         Queue<TreeNode> q = new LinkedList<>();
 
-        q.add(node);
-        infected.add(node.val);
+        q.add(startNode);
+        infected.add(startNode.val);
 
         int time = -1;
         while(!q.isEmpty()){
@@ -59,27 +60,21 @@ class Solution {
         return time;
     }
 
-    TreeNode findStart(TreeNode root, int start){
-        if(root == null ) return null;
-        if(root.val == start) return root;
-
-        TreeNode l = findStart(root.left,start);
-        TreeNode r = findStart(root.right,start);
-
-        return l==null?r:l;
-    }
-
-    void buildParent(TreeNode root){
+    void buildParent(TreeNode root,int start){
         if(root == null) return ;
+        
+        if(root.val == start)
+            startNode = root;
+
 
         if(root.left!=null){
             parent.put(root.left,root);
         }
-        buildParent(root.left);
+        buildParent(root.left,start);
 
         if(root.right!=null){
             parent.put(root.right,root);
         }
-        buildParent(root.right);
+        buildParent(root.right,start);
     }
 }
