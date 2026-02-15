@@ -51,6 +51,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [2272-substring-with-largest-variance](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2272-substring-with-largest-variance) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2332-the-latest-time-to-catch-a-bus) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2684-maximum-number-of-moves-in-a-grid) |
@@ -177,6 +178,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [2007-find-original-array-from-doubled-array](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2007-find-original-array-from-doubled-array) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2266-count-number-of-texts](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2266-count-number-of-texts) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3146-permutation-difference-between-two-strings) |
@@ -379,6 +381,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1631-path-with-minimum-effort) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2359-find-closest-node-to-given-two-nodes) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Graph Theory
 |  |
@@ -389,6 +392,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [1361-validate-binary-tree-nodes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1361-validate-binary-tree-nodes) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2359-find-closest-node-to-given-two-nodes) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2368-reachable-nodes-with-restrictions) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 ## Enumeration
 |  |
@@ -423,6 +427,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1609-even-odd-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1631-path-with-minimum-effort) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Union-Find
 |  |
 | ------- |
@@ -431,6 +436,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1361-validate-binary-tree-nodes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1361-validate-binary-tree-nodes) |
 | [1631-path-with-minimum-effort](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1631-path-with-minimum-effort) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Shortest Path
 |  |
 | ------- |
@@ -461,6 +467,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [1361-validate-binary-tree-nodes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1361-validate-binary-tree-nodes) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1609-even-odd-tree) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
