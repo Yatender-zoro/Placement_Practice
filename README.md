@@ -22,6 +22,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0503-next-greater-element-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0646-maximum-length-of-pair-chain) |
+| [0690-employee-importance](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0690-employee-importance) |
 | [0735-asteroid-collision](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0735-asteroid-collision) |
 | [0827-making-a-large-island](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0827-making-a-large-island) |
 | [0907-sum-of-subarray-minimums](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0907-sum-of-subarray-minimums) |
@@ -169,6 +170,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0496-next-greater-element-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0508-most-frequent-subtree-sum) |
 | [0652-find-duplicate-subtrees](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0652-find-duplicate-subtrees) |
+| [0690-employee-importance](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0690-employee-importance) |
 | [1048-longest-string-chain](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1048-longest-string-chain) |
 | [1169-invalid-transactions](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1169-invalid-transactions) |
 | [1726-tuple-with-same-product](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1726-tuple-with-same-product) |
@@ -366,6 +368,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0652-find-duplicate-subtrees](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0652-find-duplicate-subtrees) |
 | [0655-print-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0662-maximum-width-of-binary-tree) |
+| [0690-employee-importance](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0690-employee-importance) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0814-binary-tree-pruning](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0814-binary-tree-pruning) |
 | [0827-making-a-large-island](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0827-making-a-large-island) |
@@ -410,6 +413,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0617-merge-two-binary-trees](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0617-merge-two-binary-trees) |
 | [0655-print-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0662-maximum-width-of-binary-tree) |
+| [0690-employee-importance](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0690-employee-importance) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0827-making-a-large-island](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0827-making-a-large-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -448,6 +452,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0652-find-duplicate-subtrees](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0652-find-duplicate-subtrees) |
 | [0655-print-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0662-maximum-width-of-binary-tree) |
+| [0690-employee-importance](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0690-employee-importance) |
 | [0814-binary-tree-pruning](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0814-binary-tree-pruning) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0951-flip-equivalent-binary-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
