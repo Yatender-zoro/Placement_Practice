@@ -111,6 +111,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0042-trapping-rain-water](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0132-palindrome-partitioning-ii) |
@@ -191,6 +192,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0132-palindrome-partitioning-ii) |
