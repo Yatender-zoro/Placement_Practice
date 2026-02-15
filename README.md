@@ -26,6 +26,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0827-making-a-large-island](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0827-making-a-large-island) |
 | [0907-sum-of-subarray-minimums](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1019-next-greater-node-in-linked-list) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1169-invalid-transactions](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1169-invalid-transactions) |
@@ -126,6 +127,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0678-valid-parenthesis-string](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0907-sum-of-subarray-minimums) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1143-longest-common-subsequence) |
