@@ -396,6 +396,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Graph Theory
 |  |
 | ------- |
@@ -493,6 +494,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
