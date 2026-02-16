@@ -176,6 +176,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1048-longest-string-chain) |
 | [1169-invalid-transactions](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1169-invalid-transactions) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1726-tuple-with-same-product](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1726-tuple-with-same-product) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2007-find-original-array-from-doubled-array) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
@@ -232,6 +233,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 ## Counting
 |  |
 | ------- |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1726-tuple-with-same-product](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1726-tuple-with-same-product) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
@@ -384,6 +386,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1361-validate-binary-tree-nodes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1361-validate-binary-tree-nodes) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1631-path-with-minimum-effort](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1631-path-with-minimum-effort) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -434,6 +437,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1361-validate-binary-tree-nodes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1361-validate-binary-tree-nodes) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1609-even-odd-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1609-even-odd-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1631-path-with-minimum-effort) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -478,6 +482,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1361-validate-binary-tree-nodes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1361-validate-binary-tree-nodes) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1609-even-odd-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1609-even-odd-tree) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
