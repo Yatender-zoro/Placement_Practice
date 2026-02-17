@@ -472,6 +472,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0129-sum-root-to-leaf-numbers](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0257-binary-tree-paths) |
+| [0450-delete-node-in-a-bst](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0450-delete-node-in-a-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0572-subtree-of-another-tree) |
@@ -504,6 +505,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0129-sum-root-to-leaf-numbers](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0257-binary-tree-paths) |
+| [0450-delete-node-in-a-bst](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0450-delete-node-in-a-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0572-subtree-of-another-tree) |
@@ -541,5 +543,6 @@ Repositiory created for uploading daily practice problem of dsa for placement
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0450-delete-node-in-a-bst) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
