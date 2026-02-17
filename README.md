@@ -369,6 +369,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0098-validate-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0257-binary-tree-paths) |
@@ -469,6 +470,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -503,6 +505,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -548,6 +551,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0450-delete-node-in-a-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1382-balance-a-binary-search-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
