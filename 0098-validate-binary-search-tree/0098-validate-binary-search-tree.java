@@ -15,21 +15,36 @@
  */
 class Solution {
     public boolean isValidBST(TreeNode root) {
-        List<Integer> arr  = new ArrayList<>();
-        makearr(root,arr);
-
-        for(int i=0;i<arr.size()-1;i++){
-            if(arr.get(i)>=arr.get(i+1)) return false;
-        }
-
-        return true;
+        return validate(root, Long.MIN_VALUE, Long.MAX_VALUE);
     }
 
-    void makearr(TreeNode root,List<Integer> arr){
-        if(root == null) return;
+    public boolean validate(TreeNode node, long min, long max) {
+        if (node == null) {
+            return true;
 
-        makearr(root.left,arr);
-        arr.add(root.val);
-        makearr(root.right,arr);
+        }
+        if (node.val <= min || node.val >= max) return false;
+        return validate(node.left, min, node.val) && validate(node.right, node.val, max);
     }
 }
+// class Solution {
+//     public boolean isValidBST(TreeNode root) {
+//         // List<Integer> arr  = new ArrayList<>();
+//         // makearr(root,arr);
+
+//         // for(int i=0;i<arr.size()-1;i++){
+//         //     if(arr.get(i)>=arr.get(i+1)) return false;
+//         // }
+
+//         // return true;
+
+//     }
+
+//     // void makearr(TreeNode root,List<Integer> arr){
+//     //     if(root == null) return;
+
+//     //     makearr(root.left,arr);
+//     //     arr.add(root.val);
+//     //     makearr(root.right,arr);
+//     // }
+// }
