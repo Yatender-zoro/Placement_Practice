@@ -12,6 +12,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0221-maximal-square) |
@@ -116,6 +117,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0120-triangle](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0221-maximal-square) |
@@ -169,6 +171,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0508-most-frequent-subtree-sum) |
@@ -198,6 +201,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0127-word-ladder](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0139-word-break) |
 | [0257-binary-tree-paths](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0516-longest-palindromic-subsequence) |
@@ -559,4 +563,12 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0450-delete-node-in-a-bst](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0450-delete-node-in-a-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1382-balance-a-binary-search-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
