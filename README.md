@@ -28,6 +28,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0735-asteroid-collision](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0735-asteroid-collision) |
 | [0827-making-a-large-island](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0827-making-a-large-island) |
 | [0907-sum-of-subarray-minimums](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1019-next-greater-node-in-linked-list) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1048-longest-string-chain) |
@@ -80,6 +81,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0897-increasing-order-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0897-increasing-order-search-tree) |
 | [0901-online-stock-span](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1019-next-greater-node-in-linked-list) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1856-maximum-subarray-min-product](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1856-maximum-subarray-min-product) |
@@ -97,6 +99,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0654-maximum-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0654-maximum-binary-tree) |
 | [0901-online-stock-span](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1019-next-greater-node-in-linked-list) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1856-maximum-subarray-min-product](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1856-maximum-subarray-min-product) |
@@ -504,6 +507,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0897-increasing-order-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0897-increasing-order-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1361-validate-binary-tree-nodes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1361-validate-binary-tree-nodes) |
 | [1382-balance-a-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1382-balance-a-binary-search-tree) |
@@ -541,6 +545,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0897-increasing-order-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0897-increasing-order-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1361-validate-binary-tree-nodes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1361-validate-binary-tree-nodes) |
 | [1382-balance-a-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1382-balance-a-binary-search-tree) |
@@ -572,6 +577,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0099-recover-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0099-recover-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0450-delete-node-in-a-bst) |
 | [0897-increasing-order-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0897-increasing-order-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1382-balance-a-binary-search-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Trie
