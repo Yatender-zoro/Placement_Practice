@@ -77,6 +77,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0654-maximum-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0735-asteroid-collision) |
+| [0897-increasing-order-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0897-increasing-order-search-tree) |
 | [0901-online-stock-span](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1019-next-greater-node-in-linked-list) |
@@ -395,6 +396,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0814-binary-tree-pruning](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0814-binary-tree-pruning) |
 | [0827-making-a-large-island](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0897-increasing-order-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0951-flip-equivalent-binary-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -499,6 +501,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0690-employee-importance](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0690-employee-importance) |
 | [0814-binary-tree-pruning](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0897-increasing-order-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -535,6 +538,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0662-maximum-width-of-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0897-increasing-order-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -567,6 +571,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0098-validate-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0099-recover-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0450-delete-node-in-a-bst) |
+| [0897-increasing-order-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0897-increasing-order-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1382-balance-a-binary-search-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Trie
