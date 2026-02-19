@@ -145,6 +145,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [1048-longest-string-chain](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1143-longest-common-subsequence) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1395-count-number-of-teams](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1395-count-number-of-teams) |
