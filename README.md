@@ -19,6 +19,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0239-sliding-window-maximum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0518-coin-change-ii) |
@@ -134,6 +135,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0300-longest-increasing-subsequence](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0343-integer-break](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0583-delete-operation-for-two-strings) |
@@ -302,6 +304,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0279-perfect-squares](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0486-predict-the-winner) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1922-count-good-numbers) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2195-append-k-integers-with-minimal-sum) |
@@ -310,6 +313,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0486-predict-the-winner) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1922-count-good-numbers) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
@@ -618,4 +622,8 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0173-binary-search-tree-iterator) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
