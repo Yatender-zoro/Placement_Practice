@@ -60,6 +60,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
@@ -163,6 +164,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Binary Indexed Tree
@@ -344,6 +346,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1631-path-with-minimum-effort) |
 | [1696-jump-game-vi](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1696-jump-game-vi) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3645-maximum-total-from-optimal-activation-order) |
 ## Divide and Conquer
@@ -372,12 +375,14 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [1696-jump-game-vi](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1696-jump-game-vi) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2073-time-needed-to-buy-tickets) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0239-sliding-window-maximum) |
 | [1696-jump-game-vi](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1696-jump-game-vi) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2944-minimum-number-of-coins-for-fruits) |
 ## Bit Manipulation
 |  |
 | ------- |
