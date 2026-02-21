@@ -43,6 +43,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [1631-path-with-minimum-effort](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1631-path-with-minimum-effort) |
 | [1696-jump-game-vi](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1696-jump-game-vi) |
 | [1726-tuple-with-same-product](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1726-tuple-with-same-product) |
+| [1765-map-of-highest-peak](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1765-map-of-highest-peak) |
 | [1818-minimum-absolute-sum-difference](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1818-minimum-absolute-sum-difference) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1856-maximum-subarray-min-product](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1856-maximum-subarray-min-product) |
@@ -332,6 +333,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1631-path-with-minimum-effort) |
+| [1765-map-of-highest-peak](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1765-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2684-maximum-number-of-moves-in-a-grid) |
@@ -493,6 +495,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1609-even-odd-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1609-even-odd-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1631-path-with-minimum-effort) |
+| [1765-map-of-highest-peak](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1765-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
