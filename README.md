@@ -23,6 +23,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0496-next-greater-element-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0654-maximum-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0654-maximum-binary-tree) |
 | [0690-employee-importance](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0690-employee-importance) |
@@ -139,6 +140,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0486-predict-the-winner](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0647-palindromic-substrings) |
@@ -324,6 +326,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0085-maximal-rectangle](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0221-maximal-square) |
+| [0542-01-matrix](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0542-01-matrix) |
 | [0827-making-a-large-island](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0827-making-a-large-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -473,6 +476,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0210-course-schedule-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0279-perfect-squares) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0449-serialize-and-deserialize-bst) |
+| [0542-01-matrix](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0617-merge-two-binary-trees) |
 | [0655-print-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0655-print-binary-tree) |
