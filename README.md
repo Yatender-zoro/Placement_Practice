@@ -401,6 +401,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0099-recover-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0099-recover-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0207-course-schedule](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0257-binary-tree-paths) |
@@ -439,6 +440,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -468,6 +470,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0102-binary-tree-level-order-traversal](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0127-word-ladder](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0279-perfect-squares) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0547-number-of-provinces](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0547-number-of-provinces) |
@@ -589,6 +592,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0210-course-schedule-ii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2246-longest-path-with-different-adjacent-characters) |
 ## Doubly-Linked List
