@@ -28,6 +28,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0654-maximum-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0654-maximum-binary-tree) |
 | [0690-employee-importance](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0690-employee-importance) |
 | [0735-asteroid-collision](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0735-asteroid-collision) |
+| [0778-swim-in-rising-water](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0827-making-a-large-island) |
 | [0907-sum-of-subarray-minimums](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0994-rotting-oranges](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0994-rotting-oranges) |
@@ -242,6 +243,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0300-longest-increasing-subsequence) |
+| [0778-swim-in-rising-water](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1631-path-with-minimum-effort) |
 | [1818-minimum-absolute-sum-difference](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1818-minimum-absolute-sum-difference) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2332-the-latest-time-to-catch-a-bus) |
@@ -329,6 +331,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0174-dungeon-game](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0542-01-matrix) |
+| [0778-swim-in-rising-water](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -356,6 +359,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0239-sliding-window-maximum) |
+| [0778-swim-in-rising-water](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1631-path-with-minimum-effort) |
 | [1696-jump-game-vi](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1696-jump-game-vi) |
@@ -423,6 +427,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0662-maximum-width-of-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0669-trim-a-binary-search-tree) |
 | [0690-employee-importance](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0690-employee-importance) |
+| [0778-swim-in-rising-water](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0814-binary-tree-pruning](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0814-binary-tree-pruning) |
 | [0827-making-a-large-island](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0827-making-a-large-island) |
@@ -486,6 +491,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0655-print-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0690-employee-importance](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0690-employee-importance) |
+| [0778-swim-in-rising-water](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0827-making-a-large-island](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -507,6 +513,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0547-number-of-provinces) |
+| [0778-swim-in-rising-water](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0827-making-a-large-island) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1361-validate-binary-tree-nodes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1361-validate-binary-tree-nodes) |
