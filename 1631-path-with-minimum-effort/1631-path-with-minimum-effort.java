@@ -1,39 +1,45 @@
 class Solution {
-    public int minimumEffortPath(int[][] heights) {
-        int n = heights.length, m = heights[0].length;
+    public int minimumEffortPath(int[][] h) {
+        int m = h.length;
+        int n = h[0].length;
 
-        int[][] dist = new int[n][m];
-        for (int[] row : dist) Arrays.fill(row, Integer.MAX_VALUE);
-       PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> a[0] - b[0]);
+        int[][] d = new int[m][n];
 
-        dist[0][0] = 0;
-        pq.add(new int[]{0, 0, 0});
+        for(int i=0;i<m;i++) Arrays.fill(d[i],Integer.MAX_VALUE);
 
-        int[] dr = {-1, 1, 0, 0};
-        int[] dc = {0, 0, -1, 1};
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a,b)->a[0]-b[0]);
+        // start from 0,0
+        pq.add(new int[]{0,0,0}); // dist, i ,j
 
-        while (!pq.isEmpty()) {
-            int[] cur = pq.poll();
-            int effort = cur[0], r = cur[1], c = cur[2];
+        d[0][0] = 0;
 
-            if (r == n - 1 && c == m - 1) return effort;
-            if (effort > dist[r][c]) continue;
 
-            for (int k = 0; k < 4; k++) {
-                int nr = r + dr[k];
-                int nc = c + dc[k];
+        int[] dx = {-1,1,0,0};
+        int[] dy = {0,0,-1,1};
 
-                if (nr >= 0 && nr < n && nc >= 0 && nc < m) {
-                    int jump = Math.abs(heights[nr][nc] - heights[r][c]);
-                    int newEffort = Math.max(effort, jump);
+        while(!pq.isEmpty()){
+            int[] e = pq.poll();
+            int dist = e[0];
+            int i = e[1];
+            int j = e[2];
 
-                    if (newEffort < dist[nr][nc]) {
-                        dist[nr][nc] = newEffort;
-                        pq.add(new int[]{newEffort, nr, nc});
+            if(i==m-1 && j==n-1) return dist;
+
+            for(int l=0;l<4;l++){
+                int nr = i + dx[l];
+                int nc = j + dy[l];
+
+                if(nr>=0 && nr<m && nc>=0 && nc<n){
+                    int diff = Math.abs(h[i][j] - h[nr][nc]);
+                    int newEff = Math.max(dist, diff);
+                    if(newEff < d[nr][nc]){
+                        d[nr][nc] = newEff;
+                        pq.add(new int[]{newEff,nr,nc});
                     }
                 }
             }
         }
+
         return 0;
     }
 }
