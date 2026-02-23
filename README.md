@@ -12,6 +12,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0120-triangle) |
+| [0130-surrounded-regions](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0174-dungeon-game) |
@@ -332,6 +333,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0542-01-matrix) |
@@ -416,6 +418,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0098-validate-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0099-recover-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -489,6 +492,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0127-word-ladder](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0127-word-ladder) |
+| [0130-surrounded-regions](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0279-perfect-squares) |
@@ -523,6 +527,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0547-number-of-provinces) |
 | [0778-swim-in-rising-water](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0827-making-a-large-island) |
