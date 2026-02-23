@@ -29,6 +29,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0690-employee-importance](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0690-employee-importance) |
 | [0735-asteroid-collision](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0735-asteroid-collision) |
 | [0778-swim-in-rising-water](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0778-swim-in-rising-water) |
+| [0815-bus-routes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0815-bus-routes) |
 | [0827-making-a-large-island](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0827-making-a-large-island) |
 | [0907-sum-of-subarray-minimums](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0994-rotting-oranges](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0994-rotting-oranges) |
@@ -198,6 +199,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0508-most-frequent-subtree-sum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0508-most-frequent-subtree-sum) |
 | [0652-find-duplicate-subtrees](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0652-find-duplicate-subtrees) |
 | [0690-employee-importance](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0690-employee-importance) |
+| [0815-bus-routes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0815-bus-routes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1048-longest-string-chain) |
 | [1169-invalid-transactions](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1169-invalid-transactions) |
@@ -496,6 +498,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0690-employee-importance](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0690-employee-importance) |
 | [0778-swim-in-rising-water](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0815-bus-routes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0815-bus-routes) |
 | [0827-making-a-large-island](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0958-check-completeness-of-a-binary-tree) |
