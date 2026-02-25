@@ -19,6 +19,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0221-maximal-square](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0300-longest-increasing-subsequence) |
+| [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0496-next-greater-element-i) |
@@ -141,6 +142,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0221-maximal-square](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0300-longest-increasing-subsequence) |
+| [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0343-integer-break](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0486-predict-the-winner) |
