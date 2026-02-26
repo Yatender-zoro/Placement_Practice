@@ -198,6 +198,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0127-word-ladder](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0146-lru-cache) |
+| [0433-minimum-genetic-mutation](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0433-minimum-genetic-mutation) |
 | [0496-next-greater-element-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0508-most-frequent-subtree-sum) |
 | [0652-find-duplicate-subtrees](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0652-find-duplicate-subtrees) |
@@ -230,6 +231,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0139-word-break](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0139-word-break) |
 | [0257-binary-tree-paths](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0402-remove-k-digits) |
+| [0433-minimum-genetic-mutation](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0433-minimum-genetic-mutation) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0516-longest-palindromic-subsequence](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0583-delete-operation-for-two-strings) |
@@ -502,6 +504,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0207-course-schedule](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0279-perfect-squares) |
+| [0433-minimum-genetic-mutation](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0433-minimum-genetic-mutation) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0542-01-matrix](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0547-number-of-provinces) |
