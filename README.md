@@ -206,6 +206,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0690-employee-importance](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0690-employee-importance) |
 | [0815-bus-routes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0815-bus-routes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1048-longest-string-chain](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1048-longest-string-chain) |
 | [1169-invalid-transactions](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1169-invalid-transactions) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -450,6 +451,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0841-keys-and-rooms](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0897-increasing-order-search-tree) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0951-flip-equivalent-binary-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1267-count-servers-that-communicate](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1267-count-servers-that-communicate) |
@@ -476,6 +478,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0841-keys-and-rooms) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1361-validate-binary-tree-nodes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1361-validate-binary-tree-nodes) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -547,6 +550,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0547-number-of-provinces](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0547-number-of-provinces) |
 | [0778-swim-in-rising-water](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0827-making-a-large-island) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1267-count-servers-that-communicate](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1361-validate-binary-tree-nodes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1361-validate-binary-tree-nodes) |
