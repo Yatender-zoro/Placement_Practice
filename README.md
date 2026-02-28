@@ -377,6 +377,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0239-sliding-window-maximum) |
+| [0743-network-delay-time](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1631-path-with-minimum-effort) |
@@ -447,6 +448,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0662-maximum-width-of-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0669-trim-a-binary-search-tree) |
 | [0690-employee-importance](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0690-employee-importance) |
+| [0743-network-delay-time](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0797-all-paths-from-source-to-target) |
@@ -479,6 +481,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0207-course-schedule](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0841-keys-and-rooms) |
@@ -524,6 +527,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0655-print-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0690-employee-importance](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0690-employee-importance) |
+| [0743-network-delay-time](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0797-all-paths-from-source-to-target) |
@@ -565,6 +569,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
