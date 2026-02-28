@@ -46,6 +46,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1395-count-number-of-teams](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1395-count-number-of-teams) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1631-path-with-minimum-effort) |
 | [1696-jump-game-vi](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1696-jump-game-vi) |
@@ -482,6 +483,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1361-validate-binary-tree-nodes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1361-validate-binary-tree-nodes) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2359-find-closest-node-to-given-two-nodes) |
@@ -554,6 +556,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [1267-count-servers-that-communicate](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1361-validate-binary-tree-nodes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1361-validate-binary-tree-nodes) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1631-path-with-minimum-effort) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Shortest Path
@@ -691,4 +694,8 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0486-predict-the-winner) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
