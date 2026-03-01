@@ -22,6 +22,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0303-range-sum-query-immutable](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0368-largest-divisible-subset) |
+| [0399-evaluate-division](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0399-evaluate-division) |
 | [0486-predict-the-winner](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0503-next-greater-element-ii) |
@@ -235,6 +236,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0132-palindrome-partitioning-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0139-word-break) |
 | [0257-binary-tree-paths](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0257-binary-tree-paths) |
+| [0399-evaluate-division](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0402-remove-k-digits) |
 | [0433-minimum-genetic-mutation](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0433-minimum-genetic-mutation) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0449-serialize-and-deserialize-bst) |
@@ -437,6 +439,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0257-binary-tree-paths) |
+| [0399-evaluate-division](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0399-evaluate-division) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0543-diameter-of-binary-tree) |
@@ -480,6 +483,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | ------- |
 | [0207-course-schedule](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -519,6 +523,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0207-course-schedule](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0279-perfect-squares) |
+| [0399-evaluate-division](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0433-minimum-genetic-mutation) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0542-01-matrix](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0542-01-matrix) |
@@ -556,6 +561,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0130-surrounded-regions) |
+| [0399-evaluate-division](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0547-number-of-provinces) |
 | [0778-swim-in-rising-water](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0827-making-a-large-island) |
@@ -569,6 +575,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
