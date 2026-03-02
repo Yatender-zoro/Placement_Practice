@@ -36,6 +36,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0815-bus-routes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0815-bus-routes) |
 | [0827-making-a-large-island](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0827-making-a-large-island) |
 | [0907-sum-of-subarray-minimums](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0907-sum-of-subarray-minimums) |
+| [0934-shortest-bridge](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1019-next-greater-node-in-linked-list) |
@@ -351,6 +352,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0542-01-matrix](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0542-01-matrix) |
 | [0778-swim-in-rising-water](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0827-making-a-large-island) |
+| [0934-shortest-bridge](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1162-as-far-from-land-as-possible) |
@@ -460,6 +462,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0841-keys-and-rooms](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0897-increasing-order-search-tree) |
+| [0934-shortest-bridge](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0934-shortest-bridge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0951-flip-equivalent-binary-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -540,6 +543,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0827-making-a-large-island](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0934-shortest-bridge](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0934-shortest-bridge) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
