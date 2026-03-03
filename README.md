@@ -7,6 +7,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -514,6 +515,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0257-binary-tree-paths) |
 | [0797-all-paths-from-source-to-target](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0797-all-paths-from-source-to-target) |
