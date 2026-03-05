@@ -77,6 +77,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -106,6 +107,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [1856-maximum-subarray-min-product](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1856-maximum-subarray-min-product) |
 | [2104-sum-of-subarray-ranges](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -124,6 +126,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [1856-maximum-subarray-min-product](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1856-maximum-subarray-min-product) |
 | [2104-sum-of-subarray-ranges](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -194,11 +197,13 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0307-range-sum-query-mutable) |
 | [1395-count-number-of-teams](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1395-count-number-of-teams) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0307-range-sum-query-mutable) |
 | [1395-count-number-of-teams](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1395-count-number-of-teams) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3719-longest-balanced-subarray-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
@@ -269,6 +274,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [1818-minimum-absolute-sum-difference](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1818-minimum-absolute-sum-difference) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 ## Sliding Window
@@ -390,6 +396,7 @@ Repositiory created for uploading daily practice problem of dsa for placement
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yatender-zoro/Placement_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1631-path-with-minimum-effort) |
 | [1696-jump-game-vi](https://github.com/Yatender-zoro/Placement_Practice/tree/master/1696-jump-game-vi) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/Yatender-zoro/Placement_Practice/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/Yatender-zoro/Placement_Practice/tree/master/3645-maximum-total-from-optimal-activation-order) |
